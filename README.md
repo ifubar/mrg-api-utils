@@ -4,7 +4,6 @@ __Includes:__
 - Filter
 - Sorter
 
-
 __Installation:__
 
 ```shell
