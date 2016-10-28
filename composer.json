@@ -1,0 +1,19 @@
+{
+    "name": "ifubar/mrg-api-utils",
+    "description": "eloquent api filter",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Zamyatin Aleksandr",
+            "email": "zamyatin@magora-systems.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "ApiUtils\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
